@@ -1,0 +1,14 @@
+{
+    "firstName": "Ahmed Mustafa",
+    "lastName": "Shahab",
+    "nickName": "Mustafa",
+    "privateName": false,
+    "picture": "images/AhmedMShahab.jpg",
+    "privatePicture": false,
+    "email": "ahmed.shahab@mail.utoronto.ca",
+    "privateEmail": false,
+    "github": "AhmedMShahab",
+    "privateGithub": true,
+    "superpower" : "having 0 brain activity 90% of the time, discovering penicillin, lying poorly",
+    "academicinterests": ""
+  }
