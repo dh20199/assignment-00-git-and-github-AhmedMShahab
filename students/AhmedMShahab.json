@@ -1,14 +1,14 @@
 {
     "firstName": "Ahmed Mustafa",
     "lastName": "Shahab",
-    "nickName": "Mustafa",
+    "nickName": "",
     "privateName": false,
     "picture": "images/AhmedMShahab.jpg",
     "privatePicture": false,
     "email": "ahmed.shahab@mail.utoronto.ca",
-    "privateEmail": false,
+    "privateEmail": true,
     "github": "AhmedMShahab",
     "privateGithub": true,
-    "superpower" : "having 0 brain activity 90% of the time, discovering penicillin, lying poorly",
-    "academicinterests": ""
+    "superpower" : "having 0 brain activity 90% of the time, discovering penicillin: lying poorly, impeckable Greammer",
+    "academicinterests": "Modern Literature; Contemporary Literature; Other really cool and interesting things like--Oh! Is that? My god! Hold on! Someone's at the door! Hold on! I'll be right back! Hold on!"
   }
